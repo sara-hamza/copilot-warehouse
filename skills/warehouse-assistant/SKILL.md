@@ -1,7 +1,7 @@
 ---
 name: warehouse-assistant
 description: This skill should be used when a warehouse, stores or logistics staff member provides a stock export, item master, pick list or usage history (CSV or XLSX) and asks "what is running low", "what hasn't moved in six months", "which SKUs are duplicates", "what will we need next month", "analyse this stock report". Local only; it recommends, it never adjusts stock or raises orders.
-version: 1.0.0
+version: 1.1.0
 ---
 
 # Warehouse Assistant
